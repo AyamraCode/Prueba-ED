@@ -12,5 +12,6 @@ public class pruebaPunto {
         p2.setX( p1.getX() );
         p2.setY( p1.getY() );
         System.out.println(p1 + " es igual a " + p2 + "? " + p1.equals(p2));
+        System.out.println("Modificación comprobable :)");
     }
 }
